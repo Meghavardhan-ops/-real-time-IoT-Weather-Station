@@ -38,7 +38,7 @@ Check out the live demo: [IoT Weather Station Dashboard](https://graceful-torte-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iot-weather-station.git
+   git clone (https://github.com/Meghavardhan-ops/-real-time-IoT-Weather-Station.git)
    cd iot-weather-station
    ```
 
